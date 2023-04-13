@@ -396,6 +396,7 @@ body{
 .container .mpanel .m-profile .m-p2 .m-p21 span{
     margin-left: 8px;
 }
+/* styling myntra post*/
 .container .mpanel .m-myntra{
     background-color: white;
     margin-top: 15px;
@@ -468,6 +469,7 @@ body{
     margin-left: 5px;
     margin-right: 20px;
 }
+/* styling yash sharma post*/
 .container .mpanel .yash{
     background-color: white;
     margin-top: 10px;
@@ -508,6 +510,7 @@ body{
    .container .mpanel .yash .y2{
      margin: 10px;
    }
+   /* styling video*/
    .container .mpanel .yash .y3 video{
     width: 100%;
    }
@@ -543,6 +546,7 @@ body{
     margin-left: 5px;
     margin-right: 20px;
 }
+/* styling right panel*/
 .container .rpanel{
     height: 500px;
     width: 250px;
@@ -550,6 +554,7 @@ body{
     border-radius: 10px;
     font-size: 14px;
 }
+/* styling right panel news*/
 .container .rpanel .news{
     background-color: white;
     border-radius: 7px;
